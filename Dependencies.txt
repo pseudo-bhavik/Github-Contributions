@@ -1,0 +1,3 @@
+dependencies to install :
+npm init -y
+npm install jsonfile moment simple-git random
